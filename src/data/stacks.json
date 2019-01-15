@@ -1,0 +1,20 @@
+[
+    {
+        "title":"State Abbreviations",
+        "id":0,
+        "cards":[
+            {"id": 0, "prompt":"Arizona","answer": "AR"},
+            {"id": 1, "prompt":"California","answer": "CA"},
+            {"id": 2, "prompt":"Hawaii","answer": "HI"}
+        ]
+    },
+    {
+        "title":"words",
+        "id":1,
+        "cards":[
+            {"id": 0, "prompt":"Abandon","answer": "放弃"},
+            {"id": 1, "prompt":"Practice","answer": "实验"},
+            {"id": 2, "prompt":"Commit","answer": "做，犯法"}
+        ]
+    }
+]
